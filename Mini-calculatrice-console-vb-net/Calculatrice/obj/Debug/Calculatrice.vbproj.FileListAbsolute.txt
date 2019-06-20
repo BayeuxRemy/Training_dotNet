@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\user\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\user\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\user\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+C:\Users\user\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

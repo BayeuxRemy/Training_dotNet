@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Windows-graphique-VB-NET
+</name>
+</assembly>
+<members>
+<member name="T:Windows_graphique_VB_NET.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Windows_graphique_VB_NET.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Windows_graphique_VB_NET.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Windows_graphique_VB_NET.CalculVoyage.Verification">
+ <summary>
+ Vérifie les trois textbox de la page, regarde si elles sont remplies et si des nombres ont été entrés
+ </summary>
+ <returns>Vrai si pas d'erreur, faux si une erreur</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Windows_graphique_VB_NET.CalculVoyage.Calcul(System.Double,System.Double,System.Double)">
+ <summary>
+ Calcule le prix d'un voyage en fonction de la consommation, du prix de l'essence, et du nombre de kilomètres
+ </summary>
+ <param name="Consommation">Consommation</param>
+ <param name="NbKm">Distance parcourue</param>
+ <param name="PrixEss">Prix du kérosène</param>
+ <returns>Le coût en double</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

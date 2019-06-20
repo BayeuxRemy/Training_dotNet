@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Windows-graphique-VB-NET", "Windows-graphique-VB-NET\Windows-graphique-VB-NET.vbproj", "{129A5E6A-67F8-40BB-A6EE-F6698DE6212D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129A5E6A-67F8-40BB-A6EE-F6698DE6212D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129A5E6A-67F8-40BB-A6EE-F6698DE6212D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129A5E6A-67F8-40BB-A6EE-F6698DE6212D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129A5E6A-67F8-40BB-A6EE-F6698DE6212D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3BEC7C-794F-4FAF-A2E1-446FA6747302}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.vbprojAssemblyReference.cache
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.Resources.resources
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.vbproj.GenerateResource.cache
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.vbproj.CoreCompileInputs.cache
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\bin\Debug\Windows-graphique-VB-NET.exe.config
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\bin\Debug\Windows-graphique-VB-NET.exe
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\bin\Debug\Windows-graphique-VB-NET.pdb
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\bin\Debug\Windows-graphique-VB-NET.xml
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.CalculVoyage.resources
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.exe
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.xml
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows-graphique-VB-NET.pdb
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.Banderole.resources
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.PlateauMario.resources
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.Accueil.resources
+C:\DevSources\Training\Windows-graphique-VB-NET\Windows-graphique-VB-NET\obj\Debug\Windows_graphique_VB_NET.NavigateurWeb.resources

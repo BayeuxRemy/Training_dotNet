@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "ListeClients";
+}
+
+<body>
+    <table width=100%>
+        <tr style="background-color:black;color:white;text-align:'center'">
+            <th>Nom</th>
+            <th>Age</th>
+        </tr>
+        @foreach (Tuto_ASP_NET_MVC.Models.Client client in ViewData["Clients"] as List<Tuto_ASP_NET_MVC.Models.Client>)
+        {
+            <tr>
+                <td>@client.Nom</td>
+                <td>@client.Age</td>
+            </tr>
+        }
+    </table>
+</body>
